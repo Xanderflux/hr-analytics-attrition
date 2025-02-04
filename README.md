@@ -14,7 +14,7 @@ This project analyzes employee attrition data to identify key factors contributi
 2. **`Employee-Attrition.csv`**:
    - The dataset used for analysis. It contains employee records with features like `Age`, `Department`, `JobRole`, `MonthlyIncome`, `Attrition`, etc.
 
-3. **`Presentation.pptx`**:
+3. **`index.pptx`**:
    - A PowerPoint presentation summarizing the analysis process, key insights, and recommendations.
 
 ---
