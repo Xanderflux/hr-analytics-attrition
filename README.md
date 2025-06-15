@@ -87,7 +87,7 @@ This project analyzes employee attrition data to identify key factors contributi
 ## 📌 How to Use This Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/olayomipo/hr-analytics-attrition
+   git clone https://github.com/xanderflux/hr-analytics-attrition
    cd hr-analytics-attrition
    pip install pandas numpy matplotlib seaborn jupyter
    ```
