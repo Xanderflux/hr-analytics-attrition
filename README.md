@@ -1,4 +1,4 @@
-# Employee Attrition Analysis 🚀
+![image](https://github.com/user-attachments/assets/2c1909c7-cf35-4f73-ac9f-ab0a34d560fb)# Employee Attrition Analysis 🚀
 
 
 ## 📊 Overview 
@@ -104,6 +104,6 @@ Execute each cell to reproduce the analysis.
 ### **👨‍💻 Author**  
 
 - **Name**: Adesoye Michael Ademola 
-- **GitHub**: [@olayomipo](https://github.com/olayomipo)  
-- **Email**: [adesoyeademola@hotmail.com](mailto:adesoyeademola@hotmail.com)
-- **LinkedIn** : 
+- **GitHub**: [@xanderflux](https://github.com/xanderflux)  
+- **Email**: [adesoyeademola@hotmail.com](mailto:adesoye.m.ademola@gmail.com)
+- **LinkedIn** : [Xanderflux](https://www.linkedin.com/in/adesoye-ademola-3a6520229/)
