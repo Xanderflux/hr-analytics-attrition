@@ -1,5 +1,6 @@
 ![image]()# Employee Attrition Analysis 🚀
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xanderflux/hr-analytics-attrition/blob/main/index.ipynb)
 
 ## 📊 Overview 
 This project analyzes employee attrition data to identify key factors contributing to employee turnover. The dataset, `Employee-Attrition.csv`, contains various features such as employee demographics, job-related information, and financial details. The goal is to extract meaningful insights and provide actionable recommendations to reduce attrition.
