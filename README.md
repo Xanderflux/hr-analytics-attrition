@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c1909c7-cf35-4f73-ac9f-ab0a34d560fb)# Employee Attrition Analysis 🚀
+![image]()# Employee Attrition Analysis 🚀
 
 
 ## 📊 Overview 
